@@ -1030,9 +1030,9 @@ www.paypal-*.com
 *.canadapost-postescanada.ca
 *.postescanada-canadapost.ca
 *.purolator.com
-*.jezofficial.be
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be
@@ -1132,6 +1132,10 @@ swiss-backup*.infomaniak.com
 *.c-point.be
 *.portofantwerp.com
 *.portofantwerpbruges.com
+*.randstadrisesmart.*
+*.risesmart.*
+*.randstad.*
+*.sbb.ch
 *.swisspass.ch
 *.sentiance.com
 *.sixt.com

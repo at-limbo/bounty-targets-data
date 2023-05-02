@@ -445,11 +445,6 @@
       "in_scope": [
         {
           "type": "url",
-          "endpoint": "*.jezofficial.be",
-          "description": "Temporarily out-of-scope (see program update)"
-        },
-        {
-          "type": "url",
           "endpoint": "*.dpgmedia.be",
           "description": "excluding\n* login.dpgmedia.be"
         },
@@ -462,6 +457,95 @@
           "type": "other",
           "endpoint": "Any related DPG media domain",
           "description": "\n_Only applicable to domains that are **100% owned by DPG**.  \nFor example, projects that are partly owned by DPG and partly owned by RTL (because of a joint venture between the two) are **not** in scope._\n\nWhois: \n\nDe Persgroep Publishing nv\nBrusselstesteenweg 347\n1730 Asse\nBelgië\n\nDPG Media Services NV \nMediaplein 1 \n2018 Antwerpen \nBelgium"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+    "name": "DataCamp",
+    "company_handle": "datacamp",
+    "handle": "datacamp",
+    "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 25.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 1500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "assessment-v2.datacamp.com ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/certification",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/groups",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/learn",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/workspace",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "assessment.datacamp.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "campus.datacamp.com",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "com.datacamp",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "practice.datacamp.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "projects.datacamp.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.datacamp.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.datacamp.com",
+          "description": null
         }
       ],
       "out_of_scope": [
@@ -3240,6 +3324,50 @@
     }
   },
   {
+    "id": "b2049472-b637-49c3-b9cc-077c676f093c",
+    "name": "Randstad",
+    "company_handle": "randstad",
+    "handle": "randstad",
+    "url": "https://www.intigriti.com/programs/randstad/randstad/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.randstadrisesmart.*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.risesmart.*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.randstad.*",
+          "description": "Out of Scope: workplace.randstad.in & apps.randstad.in"
+        },
+        {
+          "type": "other",
+          "endpoint": "Any related Randstad domain",
+          "description": ""
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
     "id": "e1dc7326-0466-4c06-bd52-3c6df82370be",
     "name": "Red Bull",
     "company_handle": "redbull",
@@ -3328,7 +3456,12 @@
         {
           "type": "url",
           "endpoint": "www.swisspass.ch",
-          "description": "The application SwissPass powered by SBB is the key to mobility in Switzerland and also the first step in a new era of public transport.\n\nWith the SwissPass customers can manage their travelcard details easily and use the partner services offered by Mobility Carsharing, PubliBike, SchweizMobil and various ski resorts. \n\nPlease find also some more details about swisspass in our FAQ:\n[SwissPass.ch FAQ](https://www.swisspass.ch/faq?lang=en?key=&lang=en)"
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.sbb.ch",
+          "description": "**NEW - NEW - NEW**"
         },
         {
           "type": "url",
@@ -3343,7 +3476,7 @@
         {
           "type": "url",
           "endpoint": "beta.sbb.ch",
-          "description": "https://beta.sbb.ch is the preview version of the new homepage of the SBB website.\n\nThe focus is on the timetable with public transport connections within Switzerland and abroad.\n\nUsers jump from the timetable to the existing web shop. The teasers on the page also link to the existing website. A customer login is not yet included. New features are added incrementally."
+          "description": null
         },
         {
           "type": "url",
@@ -3368,7 +3501,7 @@
         {
           "type": "url",
           "endpoint": "www.sbbcargo.com",
-          "description": "www.sbbcargo.com is the public website of SBB Cargo, a subsidiary of SBB AG. In addition to the editorial content about the company, sbbcargo.com contains a customer center with various eServices, tools for transporting goods and a password-protected customer area."
+          "description": null
         },
         {
           "type": "url",
@@ -3453,45 +3586,6 @@
           "type": "url",
           "endpoint": "docs.sentiance.com",
           "description": null
-        }
-      ],
-      "out_of_scope": [
-
-      ]
-    }
-  },
-  {
-    "id": "0d585f25-b705-4141-a961-66d6ade8942e",
-    "name": "SimScale",
-    "company_handle": "simscale",
-    "handle": "simscale",
-    "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "min_bounty": {
-      "value": 50.0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 6000.0,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "other",
-          "endpoint": "SimScale Website",
-          "description": "Domain https://www.simscale.com and the remaining paths not listed under SimScale Platform.\n\nExamples:\n\n* [Landing page](https://www.simscale.com/)\n* [Documentation](https://www.simscale.com/docs/)\n* [Blog](https://www.simscale.com/blog/)\n* [Forum](https://www.simscale.com/forum/)"
-        },
-        {
-          "type": "other",
-          "endpoint": "SimScale API",
-          "description": "API URL: `https://api.simscale.com`\n\nThe API doc is available at https://api.simscale.com.\n\nIn order to access the SimScale API an API key is required which can be requested from the Intigriti support (\"Ask scope question\"). Please note that only a limited number of API keys will be issued at a time."
-        },
-        {
-          "type": "other",
-          "endpoint": "SimScale Platform",
-          "description": "The following areas and paths under domain `https://www.simscale.com`:\n\n#### User registration and login\nPaths: `/signup/*`, `/signin/*`, `/onboarding/*`\nExamples:\n* [User registration](https://www.simscale.com/signup/)\n* [Login](https://www.simscale.com/signin/)\n\n#### Dashboard with project pages and user profile\nPaths: `/dashboard`, `/projects/*`, `/users/*`\nExamples (login required):\n* [Dashboard](https://www.simscale.com/dashboard/)\n* [Edit user profile](https://www.simscale.com/users/YOURUSERNAME/profile/edit)\n\n#### Workbench including CAD mode and Post-Processor\nPaths: `/workbench/*`\nExamples (login required):\n* [Workbench](https://www.simscale.com/workbench/?pid=1765004443902609189)\n* [CAD mode](https://www.simscale.com/workbench/modeller?pid=1765004443902609189&sessionId=c58955c3-59a6-46c0-abfc-185db5e26f63)\n* [Post-Processor](https://www.simscale.com/workbench/?pid=1765004443902609189&rru=ea5a010d-fb77-4a47-812c-4f31e7d0b0e3&ci=a152b38a-7621-4136-a4b3-a7d53314a30f&ct=SOLUTION_FIELD&mt=SIMULATION_RESULT)\n\n#### Public project library\nPaths: `/projects/*`\nExamples:\n* [Public projects](https://www.simscale.com/projects/)\n* [Public project page](https://www.simscale.com/projects/simscale/tutorial-_pipe_junction_flow/)\n* [Public projects by tag](https://www.simscale.com/projects/tags/staff%20pick/)\n\n#### Related API endpoints\nAll API endpoints used by UIs listed above.\nPaths: `/api/*`, `/csm/*`, `/postprocessing/*`"
         }
       ],
       "out_of_scope": [
