@@ -2441,72 +2441,10 @@
           "instruction": "",
           "severity": "Critical",
           "reward": "Bounty"
-        },
-        {
-          "target": "https://admin-api.fitburn.io/",
-          "type": "API",
-          "instruction": "",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "https://admin.fitburn.io/",
-          "type": "Web",
-          "instruction": "",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "https://market-api.fitburn.io/",
-          "type": "API",
-          "instruction": "",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "https://market.fitburn.io/",
-          "type": "Web",
-          "instruction": "",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "https://json.fitburn.io/",
-          "type": "API",
-          "instruction": "",
-          "severity": "Medium",
-          "reward": "Bounty"
-        },
-        {
-          "target": "https://game.fitburn.io/",
-          "type": "API",
-          "instruction": "",
-          "severity": "Critical",
-          "reward": "Bounty"
         }
       ],
       "out_of_scope": [
-        {
-          "target": "https://besu.gemunion.io",
-          "type": "Web3",
-          "instruction": "",
-          "severity": "None",
-          "reward": null
-        },
-        {
-          "target": "https://besu-explorer.gemunion.io",
-          "type": "Web",
-          "instruction": "",
-          "severity": "None",
-          "reward": null
-        },
-        {
-          "target": "https://gemunion.github.io/",
-          "type": "Web",
-          "instruction": "",
-          "severity": "None",
-          "reward": null
-        }
+
       ]
     }
   },

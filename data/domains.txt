@@ -1290,8 +1290,6 @@ exzo.network
 ftx.com
 ftx.us
 www.fitburn.ai
-admin.fitburn.io
-market.fitburn.io
 gate.io
 rewards.gdx.org
 hackenproof.com
