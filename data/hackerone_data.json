@@ -10320,17 +10320,7 @@
     "website": "https://www.mondelezinternational.com/",
     "targets": {
       "in_scope": [
-        {
-          "asset_identifier": "www.cadbury.com.au",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        }
+
       ],
       "out_of_scope": [
 
@@ -65607,6 +65597,17 @@
           "max_severity": "none"
         },
         {
+          "asset_identifier": "https://*.helpsite.cloud",
+          "asset_type": "WILDCARD",
+          "availability_requirement": "none",
+          "confidentiality_requirement": "none",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": "none",
+          "max_severity": "none"
+        },
+        {
           "asset_identifier": "kindredaffiliates.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -70920,7 +70921,7 @@
     "name": "Trustpilot",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 100,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/trustpilot",
     "website": "https://www.trustpilot.com/",
@@ -81300,7 +81301,7 @@
     "name": "Algolia",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/algolia",
     "website": "https://algolia.com",
