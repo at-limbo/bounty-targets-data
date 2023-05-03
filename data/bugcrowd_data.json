@@ -16357,6 +16357,10 @@
     "targets": {
       "in_scope": [
         {
+          "type": "other",
+          "target": "*.api.ua.com"
+        },
+        {
           "type": "android",
           "target": "MapMyFitness  Android"
         },
@@ -16399,10 +16403,6 @@
         {
           "type": "website",
           "target": "https://www.underarmour.com"
-        },
-        {
-          "type": "other",
-          "target": "mapmyfitness.api.ua.com"
         }
       ],
       "out_of_scope": [

@@ -836,7 +836,6 @@ www.mapmyrun.com
 www.mapmywalk.com
 www.underarmour.co.uk
 www.underarmour.com
-mapmyfitness.api.ua.com
 13.238.112.7
 13.58.121.166
 204.29.196.0
@@ -2411,6 +2410,7 @@ api.n45ht.or.id
 ctf.n45ht.or.id
 n45ht.or.id
 admin.spoonflower.com
+blog.spoonflower.com
 www.cvs.com
 jcpportraits.com
 lifetouch.com
