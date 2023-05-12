@@ -1355,6 +1355,35 @@
     }
   },
   {
+    "id": "540e04bb-ae56-49cd-8e05-311a08ba44f7",
+    "name": "ING Responsible Disclosure",
+    "company_handle": "ing",
+    "handle": "ing-responsible-disclosure",
+    "url": "https://www.intigriti.com/programs/ing/ing-responsible-disclosure/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "endpoint": "Any ING (sub)domain",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
     "id": "9324f007-c411-496a-94eb-63fb08940ba0",
     "name": "Infomaniak",
     "company_handle": "infomaniak",
@@ -3041,6 +3070,80 @@
         {
           "type": "url",
           "endpoint": "www.peoplecert.org",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "694f3e58-f408-4a3f-8e2a-1b562650399a",
+    "name": "Personio",
+    "company_handle": "personio",
+    "handle": "personio",
+    "url": "https://www.intigriti.com/programs/personio/personio/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://api.personio.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.personio-internal.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.personio.tools",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://hug.personio.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://personio.de/login",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://sec-test-<intigriti handle>-<nn>.personio.de",
+          "description": "Please see FAQ for creation instructions "
+        },
+        {
+          "type": "url",
+          "endpoint": "https://we-are-hiring.cdn.personio.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://www.personio.com/free-trial/",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://www.personio.de/kostenlos-testen/",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "Other assets owned by Personio",
           "description": null
         }
       ],
@@ -5727,7 +5830,7 @@
       "in_scope": [
         {
           "type": "url",
-          "endpoint": "en.vidaxl.ca",
+          "endpoint": "fps-extr-services.vidaxl.org",
           "description": null
         },
         {
@@ -5737,7 +5840,27 @@
         },
         {
           "type": "url",
+          "endpoint": "b2b.vidaxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "cms.woger-cdn.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "customer-services.vidaxl.org",
+          "description": null
+        },
+        {
+          "type": "url",
           "endpoint": "en.vidaxl.ae",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "en.vidaxl.ca",
           "description": null
         },
         {
@@ -5752,12 +5875,37 @@
         },
         {
           "type": "url",
+          "endpoint": "nexus.vidaxl.org",
+          "description": null
+        },
+        {
+          "type": "url",
           "endpoint": "nl.vidaxl.be",
           "description": null
         },
         {
           "type": "url",
+          "endpoint": "serviceportal.vidaxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shops-services.vidaxl.org",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tracking.vidaxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
           "endpoint": "uk.vidaxl.com.ua",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vidaxl.zendesk.com",
           "description": null
         },
         {
@@ -5782,27 +5930,12 @@
         },
         {
           "type": "url",
-          "endpoint": "b2b.vidaxl.com",
-          "description": null
-        },
-        {
-          "type": "url",
-          "endpoint": "cms.woger-cdn.com/",
-          "description": null
-        },
-        {
-          "type": "url",
           "endpoint": "corporate.vidaxl.com",
           "description": null
         },
         {
           "type": "url",
           "endpoint": "drone.vidaxl.io",
-          "description": null
-        },
-        {
-          "type": "url",
-          "endpoint": "nexus.vidaxl.org/",
           "description": null
         },
         {
@@ -5833,16 +5966,6 @@
         {
           "type": "url",
           "endpoint": "staging.vidaxl.io",
-          "description": null
-        },
-        {
-          "type": "url",
-          "endpoint": "tracking.vidaxl.com",
-          "description": null
-        },
-        {
-          "type": "url",
-          "endpoint": "vidaxl.zendesk.com/",
           "description": null
         }
       ],

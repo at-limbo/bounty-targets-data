@@ -2342,6 +2342,10 @@
           "target": "*.bnbchain.org"
         },
         {
+          "type": "api",
+          "target": "3rdparty-apis.coinmarketcap.com"
+        },
+        {
           "type": "other",
           "target": "BNB Beacon Chain"
         },
@@ -2379,6 +2383,14 @@
         },
         {
           "type": "android",
+          "target": "CoinMarketCap Android app"
+        },
+        {
+          "type": "ios",
+          "target": "CoinMarketCap iOS app"
+        },
+        {
+          "type": "android",
           "target": "Trustwallet Android App"
         },
         {
@@ -2390,8 +2402,16 @@
           "target": "api.binance.com"
         },
         {
+          "type": "api",
+          "target": "api.coinmarketcap.com"
+        },
+        {
           "type": "website",
           "target": "binance.us"
+        },
+        {
+          "type": "website",
+          "target": "coinmarketcap.com"
         },
         {
           "type": "api",
@@ -2432,6 +2452,18 @@
         {
           "type": "other",
           "target": "https://github.com/trustwallet/wallet-core/"
+        },
+        {
+          "type": "api",
+          "target": "portal-api.coinmarketcap.com"
+        },
+        {
+          "type": "api",
+          "target": "pro-api.coinmarketcap.com"
+        },
+        {
+          "type": "website",
+          "target": "pro.coinmarketcap.com"
         }
       ],
       "out_of_scope": [
@@ -2442,6 +2474,10 @@
         {
           "type": "website",
           "target": "*.buildnbuild.dev"
+        },
+        {
+          "type": "other",
+          "target": "*.coinmarketcap.com"
         },
         {
           "type": "website",
@@ -2457,11 +2493,27 @@
         },
         {
           "type": "website",
+          "target": "blockchain.coinmarketcap.com"
+        },
+        {
+          "type": "website",
+          "target": "blog.coinmarketcap.com"
+        },
+        {
+          "type": "website",
           "target": "community.binance.org"
         },
         {
           "type": "website",
+          "target": "jobs.coinmarketcap.com"
+        },
+        {
+          "type": "website",
           "target": "support.binance.*"
+        },
+        {
+          "type": "website",
+          "target": "support.coinmarketcap.com"
         }
       ]
     }
@@ -3049,7 +3101,7 @@
     "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
-    "max_payout": 5000,
+    "max_payout": 10000,
     "targets": {
       "in_scope": [
         {
@@ -3235,6 +3287,25 @@
         {
           "type": "ios",
           "target": "Cash App Mobile Application for iOS"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "name": "State of California VDP",
+    "url": "https://bugcrowd.com/cdt-vdp-pro",
+    "allows_disclosure": true,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 0,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.ca.gov"
         }
       ],
       "out_of_scope": [
@@ -4804,6 +4875,162 @@
       "in_scope": [
         {
           "type": "website",
+          "target": "*.BIOMETRICS.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.CBP.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.CISA.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.CPNIREPORTING.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.CYBER.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.CYBERSECURITY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.DISASTERASSISTANCE.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.DOTGOV.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.E-VERIFY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.EVERIFY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.EVUS.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.FEMA.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.FIRSTRESPONDERTRAINING.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.FLETA.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.FLETC.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.FLOODSMART.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.GET.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.GLOBALENTRY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.HOMELANDSECURITY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.ICE.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.JUNTOS.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.LISTO.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.NIC.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.NIEM.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.NMSC.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.POWER2PREVENT.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.PREVENTIONRESOURCEFINDER.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.READY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.READYBUSINESS.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.SAFETYACT.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.SCHOOLSAFETY.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.SECRETSERVICE.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.STOPRANSOMWARE.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.TOGETHER.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.TSA.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.US-CERT.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.USCG.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.USCIS.GOV"
+        },
+        {
+          "type": "website",
+          "target": "*.USSS.GOV"
+        },
+        {
+          "type": "website",
           "target": "*.dhs.gov"
         }
       ],
@@ -5087,7 +5314,7 @@
         },
         {
           "type": "website",
-          "target": "http://doioig.gov/"
+          "target": "https://www.doioig.gov"
         }
       ],
       "out_of_scope": [
@@ -6848,7 +7075,7 @@
   {
     "name": "HostGator",
     "url": "https://bugcrowd.com/hostgator",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 4500,
@@ -6886,9 +7113,9 @@
   {
     "name": "HostGator Brazil VDP",
     "url": "https://bugcrowd.com/hostgator-brazil-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
-    "safe_harbor": "none",
+    "safe_harbor": "full",
     "max_payout": 0,
     "targets": {
       "in_scope": [
@@ -6905,9 +7132,9 @@
   {
     "name": "HostGator Latam Bug Bounty",
     "url": "https://bugcrowd.com/hostgator-latam-bb",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
-    "safe_harbor": "none",
+    "safe_harbor": "full",
     "max_payout": 2500,
     "targets": {
       "in_scope": [
@@ -6927,7 +7154,7 @@
       "out_of_scope": [
         {
           "type": "website",
-          "target": "Anything not explicitly listed as in scope "
+          "target": "Anything not explicitly listed as \"In Scope\"."
         }
       ]
     }
@@ -6935,7 +7162,7 @@
   {
     "name": "HostGator VDP",
     "url": "https://bugcrowd.com/hostgator-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -7441,10 +7668,6 @@
         {
           "type": "website",
           "target": "https://billing.indeed.com"
-        },
-        {
-          "type": "website",
-          "target": "https://employer.simplyhired-staging.com"
         },
         {
           "type": "website",
@@ -8682,10 +8905,6 @@
         },
         {
           "type": "website",
-          "target": "https://www.macquarie.com.au/"
-        },
-        {
-          "type": "website",
           "target": "https://www.medicalstudentloantrust.com/"
         },
         {
@@ -8707,6 +8926,10 @@
         {
           "type": "website",
           "target": "macquarie.com"
+        },
+        {
+          "type": "website",
+          "target": "macquarie.com.au"
         }
       ],
       "out_of_scope": [
@@ -9265,7 +9488,7 @@
     }
   },
   {
-    "name": "Monash University",
+    "name": "Monash University Vulnerability Disclosure Program",
     "url": "https://bugcrowd.com/monash-esf",
     "allows_disclosure": true,
     "managed_by_bugcrowd": true,
@@ -9288,7 +9511,7 @@
     }
   },
   {
-    "name": "Monash MBB",
+    "name": "Monash University Bug Bounty",
     "url": "https://bugcrowd.com/monash-mbb",
     "allows_disclosure": true,
     "managed_by_bugcrowd": true,
@@ -9463,7 +9686,7 @@
   {
     "name": "NameJet",
     "url": "https://bugcrowd.com/namejet",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 2500,
@@ -9482,7 +9705,7 @@
   {
     "name": "NameJet VDP",
     "url": "https://bugcrowd.com/namejet-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -10006,7 +10229,7 @@
   {
     "name": "Bluehost",
     "url": "https://bugcrowd.com/newfold-bluehost",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 4500,
@@ -10037,7 +10260,7 @@
   {
     "name": "BlueHost VDP",
     "url": "https://bugcrowd.com/newfold-bluehostindia-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -10063,9 +10286,9 @@
   {
     "name": "Newfold Builder VDP",
     "url": "https://bugcrowd.com/newfold-builder-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
-    "safe_harbor": "none",
+    "safe_harbor": "full",
     "max_payout": 0,
     "targets": {
       "in_scope": [
@@ -10085,7 +10308,7 @@
   {
     "name": "Newfold Hostgator India VDP",
     "url": "https://bugcrowd.com/newfold-hostgator-india-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -10107,7 +10330,7 @@
   {
     "name": "Reseller Club VDP Pro",
     "url": "https://bugcrowd.com/newfold-resellerclub-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -10137,63 +10360,23 @@
   {
     "name": "Newfold Vdeck Bug Bounty",
     "url": "https://bugcrowd.com/newfold-vdeck-bb",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
-    "max_payout": 4500,
+    "max_payout": 2500,
     "targets": {
       "in_scope": [
         {
           "type": "website",
-          "target": "ca.ipage.com"
+          "target": "Domain.com "
         },
         {
           "type": "website",
-          "target": "images.ipage.com"
+          "target": "http://www1.domain.com/"
         },
         {
           "type": "website",
-          "target": "ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "members.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "origin-images.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "origin-members.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "origin-secure.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "origin-www.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "secure.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "vdeck.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "www-origin.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "www.ipage.com"
-        },
-        {
-          "type": "website",
-          "target": "www1.ipage.com"
+          "target": "www.domain.com"
         }
       ],
       "out_of_scope": [
@@ -10204,7 +10387,7 @@
   {
     "name": "Newfold Vdeck VDP",
     "url": "https://bugcrowd.com/newfold-vdeck-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -10330,7 +10513,7 @@
   {
     "name": "Newfold Australias Vulnerability Disclosure Program",
     "url": "https://bugcrowd.com/newfoldau-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -10879,7 +11062,7 @@
   {
     "name": "OneTrust",
     "url": "https://bugcrowd.com/onetrust",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "none",
     "max_payout": 6500,
@@ -12488,7 +12671,7 @@
   },
   {
     "name": "Rapyd",
-    "url": "https://bugcrowd.com/rapyd-og",
+    "url": "https://bugcrowd.com/rapyd",
     "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
@@ -12662,6 +12845,232 @@
         {
           "type": "website",
           "target": "vote.rarible.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Recreation.gov: Bug Bounty Program",
+    "url": "https://bugcrowd.com/recreation-mbb",
+    "allows_disclosure": true,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "none",
+    "max_payout": 2500,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "https://prs.payments.r1s-prod.com"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/about-us"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/accessibility"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/activitypass"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/accounts"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/camps"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/communication"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/compassinventory"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/external"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/media"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/ratingreview"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/recommendation"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/search"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/tickets"
+        },
+        {
+          "type": "api",
+          "target": "https://www.recreation.gov/api/timedentry"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/articles"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/camping"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/contact-us"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/discover"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/feedback"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/gateway"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/get-involved"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/log-in"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/lottery"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/media-center"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/mobile-app"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/navigation"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/new-implementations"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/new-inventory"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/pass"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/permits"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/rentals"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/responsible-disclosure"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/rules-reservation-policies"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/search"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/shared"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/sign-up"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/site-map"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/ticket/"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/timed-entry/"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/tree-permits"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/trips"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/use-our-data"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recreation.gov/whats-new"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "Anything related to ServiceNow"
+        },
+        {
+          "type": "website",
+          "target": "Creating ServiceNow Cases"
+        },
+        {
+          "type": "website",
+          "target": "Creating comments on ServiceNow articles"
+        },
+        {
+          "type": "website",
+          "target": "Mapbox"
+        },
+        {
+          "type": "api",
+          "target": "Medallia"
+        },
+        {
+          "type": "website",
+          "target": "https://dialogflow.cloud.google.com/*"
+        },
+        {
+          "type": "website",
+          "target": "https://manage.recreation.gov/"
         }
       ]
     }
@@ -13701,7 +14110,7 @@
   {
     "name": "SnapNames",
     "url": "https://bugcrowd.com/snapnames",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 2500,
@@ -13720,7 +14129,7 @@
   {
     "name": "SnapNames VDP",
     "url": "https://bugcrowd.com/snapnames-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 0,
@@ -16911,11 +17320,27 @@
         },
         {
           "type": "website",
+          "target": "https://ahc-india.myshopify.com"
+        },
+        {
+          "type": "website",
           "target": "https://ca.dollarshaveclub.com/"
         },
         {
           "type": "website",
           "target": "https://consumer.m-mart.store/log-in/"
+        },
+        {
+          "type": "website",
+          "target": "https://dermalogica.fr/"
+        },
+        {
+          "type": "website",
+          "target": "https://dermalogicaindia.com/"
+        },
+        {
+          "type": "website",
+          "target": "https://dermalogicaskincare.it/"
         },
         {
           "type": "website",
@@ -17188,6 +17613,22 @@
         {
           "type": "website",
           "target": "https://www.clubdebeneficios.com/"
+        },
+        {
+          "type": "website",
+          "target": "https://www.dermalogica.co.uk "
+        },
+        {
+          "type": "website",
+          "target": "https://www.dermalogica.com.au "
+        },
+        {
+          "type": "website",
+          "target": "https://www.dermalogica.com "
+        },
+        {
+          "type": "website",
+          "target": "https://www.dermalogica.de/ "
         },
         {
           "type": "website",
@@ -18916,9 +19357,9 @@
   {
     "name": "Web.com",
     "url": "https://bugcrowd.com/webdotcom",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
-    "safe_harbor": "none",
+    "safe_harbor": "full",
     "max_payout": 7500,
     "targets": {
       "in_scope": [
@@ -18958,7 +19399,7 @@
   {
     "name": "Web.com VDP",
     "url": "https://bugcrowd.com/webdotcom-vdp",
-    "allows_disclosure": true,
+    "allows_disclosure": false,
     "managed_by_bugcrowd": true,
     "safe_harbor": "partial",
     "max_payout": 0,

@@ -1239,6 +1239,26 @@
     }
   },
   {
+    "id": "/bitcastle/bitcastle-web",
+    "name": "Bitcastle Web",
+    "url": "https://hackenproof.com/bitcastle/bitcastle-web",
+    "archived": false,
+    "targets": {
+      "in_scope": [
+        {
+          "target": "https://bitcastle.io/en",
+          "type": "Web",
+          "instruction": "",
+          "severity": "Critical",
+          "reward": "Bounty"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
     "id": "/bitkub/bitkub",
     "name": "Bitkub",
     "url": "https://hackenproof.com/bitkub/bitkub",
@@ -2410,6 +2430,13 @@
           "instruction": "",
           "severity": "None",
           "reward": null
+        },
+        {
+          "target": "https://github.com/FitburnEngineering/Fitburn.Contracts/blob/main/contracts/MOCKS",
+          "type": "Smart Contract",
+          "instruction": "",
+          "severity": "None",
+          "reward": null
         }
       ]
     }
@@ -3085,47 +3112,6 @@
           "target": "API",
           "type": "API",
           "instruction": "https://exchange.lcx.com/v1/docs/",
-          "severity": "Critical",
-          "reward": "Bounty"
-        }
-      ],
-      "out_of_scope": [
-
-      ]
-    }
-  },
-  {
-    "id": "/latoken/latoken-exchange",
-    "name": "Latoken Exchange",
-    "url": "https://hackenproof.com/latoken/latoken-exchange",
-    "archived": false,
-    "targets": {
-      "in_scope": [
-        {
-          "target": "latoken.com",
-          "type": "Web",
-          "instruction": "",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "API",
-          "type": "API",
-          "instruction": "https://api.latoken.com/v2",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "iOS App",
-          "type": "iOS",
-          "instruction": "https://apps.apple.com/gb/app/latoken/id1475744349",
-          "severity": "Critical",
-          "reward": "Bounty"
-        },
-        {
-          "target": "Android App",
-          "type": "Android",
-          "instruction": "https://play.google.com/store/apps/details?id=com.latoken.wallet",
           "severity": "Critical",
           "reward": "Bounty"
         }
@@ -4871,20 +4857,6 @@
           "severity": "Low",
           "reward": "Bounty"
         }
-      ],
-      "out_of_scope": [
-
-      ]
-    }
-  },
-  {
-    "id": "/yolorekt/yolorekt-community-bug-bounty",
-    "name": "YOLOrekt Community Bug Bounty",
-    "url": "https://hackenproof.com/yolorekt/yolorekt-community-bug-bounty",
-    "archived": true,
-    "targets": {
-      "in_scope": [
-
       ],
       "out_of_scope": [
 

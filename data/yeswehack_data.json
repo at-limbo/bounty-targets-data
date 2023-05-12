@@ -1776,10 +1776,6 @@
           "type": "mobile-application-ios"
         },
         {
-          "target": "https://play.google.com/store/apps/details?id=com.pinelabs.pinetrm",
-          "type": "mobile-application-android"
-        },
-        {
           "target": "https://play.google.com/store/apps/details?id=com.pinelabs.fave",
           "type": "mobile-application-android"
         },
@@ -2496,8 +2492,8 @@
     "public": true,
     "disabled": false,
     "managed": null,
-    "min_bounty": 10,
-    "max_bounty": 5000,
+    "min_bounty": 8,
+    "max_bounty": 6425,
     "targets": {
       "in_scope": [
         {
@@ -2619,6 +2615,38 @@
         },
         {
           "target": "myeasydocs.co.il",
+          "type": "other"
+        },
+        {
+          "target": "nssr-7.vfsglobal.com",
+          "type": "other"
+        },
+        {
+          "target": "https://uat-lift.vfsglobal.com/_angular/main.8dbd1aa97c38b188.js?v=6.0.29",
+          "type": "other"
+        },
+        {
+          "target": "https://liftassets.vfsglobal.com/_nuxt/46217fc777819548fddb.js",
+          "type": "other"
+        },
+        {
+          "target": "https://ukvitest.vfsglobal.com/_angular/main.3ca04c44a2718f71.js?v=1.0.22",
+          "type": "other"
+        },
+        {
+          "target": "https://online.vfsevisa.com/main-es2015.521ef2e1d9f68fd1bb90.js",
+          "type": "other"
+        },
+        {
+          "target": "https://online.vfsevisa.com/main-es5.521ef2e1d9f68fd1bb90.js?v=3.1.6",
+          "type": "other"
+        },
+        {
+          "target": "https://portal.vfsevisa.com/main-es2015.987b1b526aa8041bfdee.js",
+          "type": "other"
+        },
+        {
+          "target": "https://portal.vfsevisa.com/main-es5.987b1b526aa8041bfdee.js?v=3.1.6",
           "type": "other"
         }
       ]
