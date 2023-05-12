@@ -50,6 +50,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "aus5.mozilla.org",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "Backend update system for Mozilla products.\n\nNo disruptive testing or scanning tools to be run on production.",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "bugzilla.mozilla.org",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -90903,7 +90914,7 @@
     "name": "Shopify",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/shopify",
     "website": "https://www.shopify.com",
