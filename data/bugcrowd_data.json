@@ -3247,7 +3247,14 @@
         }
       ],
       "out_of_scope": [
-
+        {
+          "type": "website",
+          "target": "*.0.canva-apps.cn"
+        },
+        {
+          "type": "website",
+          "target": "*.0.canva.cn"
+        }
       ]
     }
   },
