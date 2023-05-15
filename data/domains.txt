@@ -3853,6 +3853,7 @@ support.nutanix.com
 testdrive.nutanix.com
 ticket.nutanix.com
 www.nutanix.dev
+api.sokos.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 crosskey.io
@@ -3862,6 +3863,7 @@ tunnistus.s-ryhma.fi
 www.prisma.fi
 www.s-kaupat.fi
 www.s-pankki.fi
+www.sokos.fi
 matomo.cloud
 accounts.logi.com
 alert.logitech.com
