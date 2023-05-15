@@ -88640,62 +88640,6 @@
     }
   },
   {
-    "allows_bounty_splitting": false,
-    "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": null,
-    "average_time_to_report_resolved": null,
-    "handle": "kiwi-ki",
-    "id": 0,
-    "managed_program": false,
-    "name": "KIWI.KI GmbH",
-    "offers_bounties": true,
-    "offers_swag": false,
-    "response_efficiency_percentage": 25,
-    "submission_state": "open",
-    "url": "https://hackerone.com/kiwi-ki",
-    "website": "http://kiwi.ki",
-    "targets": {
-      "in_scope": [
-        {
-          "asset_identifier": "api.kiwi.ki",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "We are currently accepting bugs related to our backend API.",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "mobile.kiwi.ki",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "We are currently accepting bugs related to our frontend mobile.kiwi.ki.",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "portal.kiwi.ki",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "We are currently accepting bugs for our frontend portal.kiwi.ki.",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        }
-      ],
-      "out_of_scope": [
-
-      ]
-    }
-  },
-  {
     "allows_bounty_splitting": true,
     "average_time_to_bounty_awarded": 270.0,
     "average_time_to_first_program_response": 5.0,
