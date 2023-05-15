@@ -716,6 +716,17 @@
     "targets": {
       "in_scope": [
         {
+          "asset_identifier": "*.superbet.com",
+          "asset_type": "WILDCARD",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "*.superbet.ro",
           "asset_type": "WILDCARD",
           "availability_requirement": null,
@@ -727,18 +738,7 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "http://*.superbet.com",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://*.superbet.rs",
+          "asset_identifier": "*.superbet.rs",
           "asset_type": "WILDCARD",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -2053,6 +2053,39 @@
     "targets": {
       "in_scope": [
         {
+          "asset_identifier": "*.indrive.com",
+          "asset_type": "WILDCARD",
+          "availability_requirement": "low",
+          "confidentiality_requirement": "low",
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": "low",
+          "max_severity": "medium"
+        },
+        {
+          "asset_identifier": "*.indriver.com",
+          "asset_type": "WILDCARD",
+          "availability_requirement": "low",
+          "confidentiality_requirement": "low",
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": "low",
+          "max_severity": "medium"
+        },
+        {
+          "asset_identifier": "*.indriverapp.com",
+          "asset_type": "WILDCARD",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "ab-platform-api.eu-east-1.indriverapp.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -2075,52 +2108,19 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "http://*.indrive.com",
-          "asset_type": "WILDCARD",
-          "availability_requirement": "low",
-          "confidentiality_requirement": "low",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "low",
-          "max_severity": "medium"
-        },
-        {
-          "asset_identifier": "http://*.indriver.com",
-          "asset_type": "WILDCARD",
-          "availability_requirement": "low",
-          "confidentiality_requirement": "low",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "low",
-          "max_severity": "medium"
-        },
-        {
-          "asset_identifier": "http://*.indriverapp.com",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://intercity-*.eu-east-1.indriverapp.com",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "injob.indriver.com",
           "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "intercity-*.eu-east-1.indriverapp.com",
+          "asset_type": "WILDCARD",
           "availability_requirement": null,
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
@@ -13396,12 +13396,12 @@
         {
           "asset_identifier": "greenandblacks.co.uk",
           "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": null,
-          "integrity_requirement": null,
+          "integrity_requirement": "high",
           "max_severity": "critical"
         },
         {
@@ -17773,6 +17773,17 @@
         },
         {
           "asset_identifier": "www.gratis-testen.lu-original.de",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "www.greenandblacks.co.uk",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -23031,7 +23042,7 @@
     "name": "Tide",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/tide",
     "website": "http://www.tide.co",
