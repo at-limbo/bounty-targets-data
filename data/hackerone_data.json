@@ -9636,6 +9636,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "cdgfossil.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "dev.shopkatchin.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -9647,6 +9658,39 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "fossilcare.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "fossilcrm.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "fossilgroup.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "jp.misfit.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -9654,6 +9698,17 @@
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "linkplatforms.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -9702,6 +9757,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "misfitwearable.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "prod.shopkatchin.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -9720,6 +9786,17 @@
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "smartwatchstations.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": null,
           "max_severity": "critical"
         },
