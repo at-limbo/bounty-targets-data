@@ -2388,7 +2388,9 @@ www.brand.zebra.com
 www.global.zebra.com
 stage-www.zebra.com
 supportcommunity.zebra.com
+takeback.zebra.com
 test-api.zebra.com
+test-marketing-api.zebra.com
 zebratradeinprogram.com
 zsbportal.zebra.com
 zsbsupport.zebra.com
