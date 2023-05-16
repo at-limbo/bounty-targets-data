@@ -296,6 +296,8 @@ w2ab2i60y4.execute-api.us-east-1.amazonaws.com
 www.irobot.com
 api.kennasecurity.com
 bugcrowd-pub.bounty.kiteworks.dev
+kmart.com.au
+target.com.au
 lastpass.com
 sympleloans.com.au
 app.latitudepayapps.com
