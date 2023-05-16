@@ -74653,17 +74653,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "app.playwonderbox.com",
-          "asset_type": "APPLE_STORE_APP_ID",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "aqtooling.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -75059,6 +75048,17 @@
           "eligible_for_submission": false,
           "instruction": "This is generally considered out of scope. In some rare instances we may accept submissions for this asset if the finding is highly critical. \n\nExamples of severe findings:\n- Personal Data Exposure\n- Data Integrity Issues\n- RCE",
           "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "app.playwonderbox.com",
+          "asset_type": "APPLE_STORE_APP_ID",
+          "availability_requirement": "none",
+          "confidentiality_requirement": "none",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": "none",
           "max_severity": "none"
         },
         {
