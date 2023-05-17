@@ -1226,6 +1226,7 @@ swiss-backup*.infomaniak.com
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
+*.yacht.nl
 *.celo.org
 *.forum.ibood.com
 *.ibood.io
