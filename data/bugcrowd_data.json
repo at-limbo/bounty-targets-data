@@ -15335,6 +15335,41 @@
     }
   },
   {
+    "name": "Terraform Labs VDP",
+    "url": "https://bugcrowd.com/terraform-vdp",
+    "allows_disclosure": true,
+    "managed_by_bugcrowd": true,
+    "safe_harbor": "full",
+    "max_payout": 0,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Alliance Core"
+        },
+        {
+          "type": "other",
+          "target": "Terra Core"
+        },
+        {
+          "type": "other",
+          "target": "Terra Station - Desktop"
+        },
+        {
+          "type": "other",
+          "target": "Terra Station - Extension"
+        },
+        {
+          "type": "website",
+          "target": "Terra Station - Web"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
     "name": "Tesla",
     "url": "https://bugcrowd.com/tesla",
     "allows_disclosure": true,
