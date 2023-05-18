@@ -61,7 +61,18 @@
         }
       ],
       "out_of_scope": [
-
+        {
+          "type": "website",
+          "target": "grow.acorns.com"
+        },
+        {
+          "type": "website",
+          "target": "share.acorns.com"
+        },
+        {
+          "type": "website",
+          "target": "store.acorns.com"
+        }
       ]
     }
   },
