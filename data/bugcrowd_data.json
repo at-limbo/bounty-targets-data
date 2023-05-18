@@ -8549,7 +8549,22 @@
     "max_payout": 0,
     "targets": {
       "in_scope": [
-
+        {
+          "type": "website",
+          "target": "*.earthclassmail.com"
+        },
+        {
+          "type": "website",
+          "target": "*.legalinc.com"
+        },
+        {
+          "type": "website",
+          "target": "*.legalzoom.com"
+        },
+        {
+          "type": "website",
+          "target": "*.revv.so"
+        }
       ],
       "out_of_scope": [
 
