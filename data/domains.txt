@@ -1288,7 +1288,6 @@ www.bkex.com
 www.btse.com
 www.bit.com
 bitmart.com
-bitcastle.io
 codex.one
 chainstack.com
 console.chainstack.com
@@ -1355,6 +1354,7 @@ virtuswap.io
 whitebit.com
 blog.whitebit.com
 www.xt.com
+bitcastle.io
 admin.ring.com
 api.ring.com
 app.ring.com
