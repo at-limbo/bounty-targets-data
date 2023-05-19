@@ -9685,10 +9685,6 @@
         },
         {
           "type": "website",
-          "target": "https://study.abroad.monash.edu/"
-        },
-        {
-          "type": "website",
           "target": "identity.monash.edu"
         },
         {
@@ -9718,6 +9714,10 @@
         {
           "type": "website",
           "target": "status.mobile.monash"
+        },
+        {
+          "type": "website",
+          "target": "study.abroad.monash.edu"
         },
         {
           "type": "website",

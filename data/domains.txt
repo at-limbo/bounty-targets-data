@@ -395,7 +395,6 @@ compulsoryunits.monash.edu
 monashcollege.edu.au
 myapp.monash.edu
 online.monash.edu
-study.abroad.monash.edu
 identity.monash.edu
 mix-dev.monash.edu
 mix-qat.monash.edu
@@ -404,6 +403,7 @@ mobile.monash
 monash.app.nutrip.com
 my.monash
 status.mobile.monash
+study.abroad.monash.edu
 www.monash.edu
 app-staging.getmoneytree.com
 redash-staging.getmoneytree.com
