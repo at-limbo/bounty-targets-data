@@ -1070,6 +1070,7 @@ www.paypal-*.com
 *.azena.com
 *.bcc.nl
 *.bmc.nl
+*.cmtelecom.com
 *.ticketing.cm.com
 *.cm.com
 *.canadapost-postescanada.ca
