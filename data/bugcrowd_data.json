@@ -8946,11 +8946,11 @@
         },
         {
           "type": "website",
-          "target": "https://macquarie.com"
+          "target": "*macquarie.com.au"
         },
         {
           "type": "website",
-          "target": "https://macquarie.com.au"
+          "target": "https://macquarie.com"
         },
         {
           "type": "website",
