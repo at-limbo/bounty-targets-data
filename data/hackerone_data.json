@@ -36337,6 +36337,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "cloud8.8x8.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "connect.8x8.com",
           "asset_type": "URL",
           "availability_requirement": "medium",
