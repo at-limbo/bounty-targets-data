@@ -409,6 +409,7 @@ mobile.monash
 monash.app.nutrip.com
 my.monash
 status.mobile.monash
+studentplacements.monash.edu
 study.abroad.monash.edu
 www.monash.edu
 app-staging.getmoneytree.com

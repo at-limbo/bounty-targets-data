@@ -9753,6 +9753,10 @@
         },
         {
           "type": "website",
+          "target": "studentplacements.monash.edu"
+        },
+        {
+          "type": "website",
           "target": "study.abroad.monash.edu"
         },
         {
