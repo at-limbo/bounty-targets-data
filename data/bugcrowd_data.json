@@ -14427,6 +14427,10 @@
         {
           "type": "website",
           "target": "status.soundcloud.com"
+        },
+        {
+          "type": "website",
+          "target": "support.soundcloud.org"
         }
       ]
     }
