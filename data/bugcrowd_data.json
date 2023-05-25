@@ -2242,6 +2242,10 @@
       "in_scope": [
         {
           "type": "website",
+          "target": "bathandbodyworks.com"
+        },
+        {
+          "type": "website",
           "target": "bbwinc.com"
         }
       ],
