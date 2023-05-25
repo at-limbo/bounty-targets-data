@@ -1331,6 +1331,7 @@ kuna.io
 money.kuna.io
 app.lachain.io
 ladex.exchange
+latoken.com
 near.org
 docs.near.org
 wiki.near.org
