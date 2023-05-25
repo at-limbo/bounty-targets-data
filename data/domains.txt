@@ -3710,6 +3710,7 @@ ehxhr.com
 ext-equifax.cl
 github.com
 help.equifax.com
+vpoconfig.tools.prod.appriss.com
 jobalinedemo.com
 jobalinesandbox.com
 mail.ext-equifax.cl
