@@ -87079,7 +87079,7 @@
     "name": "GitHub",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 93,
+    "response_efficiency_percentage": 92,
     "submission_state": "open",
     "url": "https://hackerone.com/github",
     "website": "https://bounty.github.com",
@@ -89423,6 +89423,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "api.deriv.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "app.deriv.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -89454,6 +89465,17 @@
           "instruction": "",
           "integrity_requirement": "low",
           "max_severity": "medium"
+        },
+        {
+          "asset_identifier": "oauth.deriv.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
         },
         {
           "asset_identifier": "secure-dfadmin.binary.com",
@@ -89491,6 +89513,17 @@
           "max_severity": "none"
         },
         {
+          "asset_identifier": "besquare.deriv.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
           "asset_identifier": "com.binary.ticktrade",
           "asset_type": "OTHER_APK",
           "availability_requirement": "low",
@@ -89502,7 +89535,40 @@
           "max_severity": "none"
         },
         {
+          "asset_identifier": "community.deriv.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
           "asset_identifier": "deriv.slack.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "trade.mql5.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "tradingview.deriv.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
