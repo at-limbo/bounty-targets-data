@@ -2055,6 +2055,26 @@
     }
   },
   {
+    "id": "/deltaprime/deltaprime-smart-contracts",
+    "name": "DeltaPrime Smart Contracts",
+    "url": "https://hackenproof.com/deltaprime/deltaprime-smart-contracts",
+    "archived": false,
+    "targets": {
+      "in_scope": [
+        {
+          "target": "https://github.com/DeltaPrimeLabs/deltaprime-primeloans/tree/dev/main",
+          "type": "Smart Contract",
+          "instruction": "",
+          "severity": "Critical",
+          "reward": "Bounty"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
     "id": "/dex-trade/dex-trade",
     "name": "Dex-Trade",
     "url": "https://hackenproof.com/dex-trade/dex-trade",
