@@ -19178,7 +19178,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": 225.0,
-    "average_time_to_first_program_response": 22.0,
+    "average_time_to_first_program_response": 20.0,
     "average_time_to_report_resolved": null,
     "handle": "razorpay",
     "id": 0,
@@ -28208,7 +28208,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": 0.0,
-    "average_time_to_first_program_response": 20.0,
+    "average_time_to_first_program_response": 19.0,
     "average_time_to_report_resolved": null,
     "handle": "doppler",
     "id": 0,
@@ -29576,7 +29576,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 13.0,
+    "average_time_to_first_program_response": 12.0,
     "average_time_to_report_resolved": 5863.0,
     "handle": "anywhererealestate",
     "id": 0,
@@ -39401,7 +39401,7 @@
     "name": "FINRA Response",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 100,
     "submission_state": "open",
     "url": "https://hackerone.com/finra",
     "website": "http://finra.org",
@@ -57784,7 +57784,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": 216.0,
-    "average_time_to_first_program_response": 20.0,
+    "average_time_to_first_program_response": 19.0,
     "average_time_to_report_resolved": 2361.0,
     "handle": "xiaomi",
     "id": 0,
@@ -58612,7 +58612,7 @@
   {
     "allows_bounty_splitting": false,
     "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 5.0,
+    "average_time_to_first_program_response": 4.0,
     "average_time_to_report_resolved": 5214.0,
     "handle": "capital-one",
     "id": 0,
