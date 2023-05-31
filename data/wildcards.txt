@@ -299,6 +299,7 @@
 *.neutralvehicle.com
 *.webtechwireless.com
 *.healthifyme.com
+*.hostgator.com.br
 *.hs-sites.com
 *.hubapi.com
 *.hubspot.com
@@ -410,7 +411,6 @@ api*.netflix.com
 *.bluehost.in
 *.websitebuilder.com
 *.hostgator.in
-*.resellerclub.com
 *.nlrb.gov
 *.ntsb.gov
 *.octopus.com
