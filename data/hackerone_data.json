@@ -46491,7 +46491,7 @@
     "name": "Oasis Protocol Foundation",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 50,
+    "response_efficiency_percentage": 55,
     "submission_state": "open",
     "url": "https://hackerone.com/oasisprotocol",
     "website": "https://oasisprotocol.org",
@@ -100915,6 +100915,17 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": "Please see the instructions for the custody.coinbase.com asset on how to get an account.",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "cloud.coinbase.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": null,
           "max_severity": "critical"
         },
