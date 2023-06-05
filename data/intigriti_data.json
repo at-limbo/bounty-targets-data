@@ -2790,11 +2790,6 @@
       "in_scope": [
         {
           "type": "url",
-          "endpoint": "corporate.napoleonsportsandcasino.be",
-          "description": null
-        },
-        {
-          "type": "url",
           "endpoint": "*.napoleoncasino.be ",
           "description": null
         },
