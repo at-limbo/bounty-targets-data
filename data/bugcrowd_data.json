@@ -4522,6 +4522,10 @@
         },
         {
           "type": "website",
+          "target": "https://*.seedfi.com"
+        },
+        {
+          "type": "website",
           "target": "https://accounts.creditkarma.com"
         },
         {
