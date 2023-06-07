@@ -11036,19 +11036,15 @@
       "in_scope": [
         {
           "type": "other",
+          "target": "FastPass ( OS X &  Windows )"
+        },
+        {
+          "type": "other",
           "target": "Okta Agent Windows"
         },
         {
           "type": "other",
           "target": "Okta Browser Plugin (IE / Firefox / Chrome)"
-        },
-        {
-          "type": "android",
-          "target": "Okta MDM (Android)"
-        },
-        {
-          "type": "ios",
-          "target": "Okta MDM (iOS)"
         },
         {
           "type": "other",
@@ -11057,6 +11053,10 @@
         {
           "type": "android",
           "target": "Okta Verify (Android)"
+        },
+        {
+          "type": "other",
+          "target": "Okta Verify (Mac OS)"
         },
         {
           "type": "ios",
