@@ -6287,14 +6287,6 @@
         {
           "type": "website",
           "target": "Any FIS asset is in scope"
-        },
-        {
-          "type": "website",
-          "target": "fisglobal.gpcloudservice.com"
-        },
-        {
-          "type": "website",
-          "target": "portal.efdservices.com/efgportal/Portal/login"
         }
       ],
       "out_of_scope": [
